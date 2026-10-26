@@ -28,3 +28,22 @@ HTML, CSS, JavaScript, PHP, and MySQL.
 
 ## Project note
 This repository documents the project. Any data used in public examples is fictional and contains no customer information.
+
+
+
+## Screenshots
+
+### Product catalog
+![SneakDup product catalog](sneakdup-catalog.png)
+
+### Product details
+![SneakDup product details](sneakdup-product-details.png)
+
+### Point of sale
+![SneakDup point of sale](sneakdup-pos.png)
+
+### Inventory
+![SneakDup inventory](sneakdup-inventory.png)
+
+### Sales analytics
+![SneakDup sales analytics](sneakdup-sales-analytics.png)
